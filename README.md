@@ -72,3 +72,7 @@ GPU fan spins at max RPM for several seconds during boot occasionally and runs n
 
 ## USB Map 
 HS01 HS02 HS07 HS08 HS09 HS10 HS11 HS12 SS01 SS02 SS03 SS04 SS05 SS06 SS10
+
+![image](USBMap1.png)
+![image](USBMap2.png)
+![image](USBMap3.png)
