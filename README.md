@@ -12,7 +12,7 @@ This tutorial works perfectly on macOS Catalina (10.15.5). FCPX GPU rendering wo
 | RAM | KLEVV | BOLT 2x8GB DDR4 3200 | | Downclocked to 2666 for stability |
 | iGPU | Intel | HD Graphics 530 | built-in | Headless mode |
 | dGPU | Sapphire | RX 470 Reference Edition 4GB | | |
-| SSD | ADATA | SX6000Pro 512GB NVMe | Built-In | |
+| SSD | ADATA | SX6000Pro 512GB NVMe | built-In | |
 | Wireless | Broadcom | BCM94360NG M.2 | built-in | QCA61x4A was replaced* |
 | Ethernet | Intel | I219-V | [IntelMausi.kext](https://github.com/acidanthera/IntelMausi) | |
 | Audio | Realtek | ALC1150 | [AppleALC.kext](https://github.com/acidanthera/AppleALC) | |
