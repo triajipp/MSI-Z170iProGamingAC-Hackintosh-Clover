@@ -1,5 +1,5 @@
 # MSI-Z170iProGamingAC-Hackintosh-Clover
-This tutorial works perfectly on macOS Catalina (10.15.5). FCPX GPU rendering works smoothly. HDR can be enabled. Supports sleep, Airdrop and Handoff. 
+This tutorial works perfectly on macOS Catalina (10.15.6). FCPX GPU rendering works smoothly. HDR can be enabled. Supports sleep, Airdrop and Handoff. 
 
 ![image](ScreenShot.png)
 
