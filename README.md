@@ -9,7 +9,7 @@ This tutorial works perfectly on macOS Catalina (10.15.5). FCPX GPU rendering wo
 |-----|-----|-----|-----|-----|
 | Motherboard | MSI | Z170i Gaming Pro AC | | |
 | CPU | Intel | i5-6600K | | |
-| RAM | KLEVV | BOLT 2x8GB DDR4 3200 | | Overclocked to 4000 |
+| RAM | KLEVV | BOLT 2x8GB DDR4 3200 | | Downclocked to 2666 for stability |
 | iGPU | Intel | HD Graphics 530 | built-in | Headless mode |
 | dGPU | Sapphire | RX 470 Reference Edition 4GB | | |
 | SSD | ADATA | SX6000Pro 512GB NVMe | Built-In | |
@@ -17,7 +17,7 @@ This tutorial works perfectly on macOS Catalina (10.15.5). FCPX GPU rendering wo
 | Ethernet | Intel | I219-V | [IntelMausi.kext](https://github.com/acidanthera/IntelMausi) | |
 | Audio | Realtek | ALC1150 | [AppleALC.kext](https://github.com/acidanthera/AppleALC) | |
 | PSU | Enermax | 450W 80+ Bronze | | |
-| Case | Silverstone | Mini-ITX | | |
+| Case | Silverstone | SG-13 Mini-ITX | | |
 | Monitor | HP | 24f (FreeSync) | | |
 
 *QCA61x4A is not supported. Follow [this guide](https://www.tonymacx86.com/threads/bcm94352z-installed-on-asus-z170i-pro-gaming-wifi-and-bt.191274) the replace the onboard wireless card. Theoretically BCM94352Z or BCM94360CS2 with adapter can work as well.
